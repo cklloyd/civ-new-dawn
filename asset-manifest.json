@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/civ-new-dawn/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/civ-new-dawn/static/js/main.00a5e5fb.chunk.js",
+    "main.js.map": "/civ-new-dawn/static/js/main.00a5e5fb.chunk.js.map",
+    "runtime-main.js": "/civ-new-dawn/static/js/runtime-main.c9778430.js",
+    "runtime-main.js.map": "/civ-new-dawn/static/js/runtime-main.c9778430.js.map",
+    "static/js/2.45bf636c.chunk.js": "/civ-new-dawn/static/js/2.45bf636c.chunk.js",
+    "static/js/2.45bf636c.chunk.js.map": "/civ-new-dawn/static/js/2.45bf636c.chunk.js.map",
+    "index.html": "/civ-new-dawn/index.html",
+    "precache-manifest.fec18f3f90dc54dff72ee48140b7b2df.js": "/civ-new-dawn/precache-manifest.fec18f3f90dc54dff72ee48140b7b2df.js",
+    "service-worker.js": "/civ-new-dawn/service-worker.js",
+    "static/css/main.8ab6f918.chunk.css.map": "/civ-new-dawn/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.45bf636c.chunk.js.LICENSE.txt": "/civ-new-dawn/static/js/2.45bf636c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/civ-new-dawn/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9778430.js",
+    "static/js/2.45bf636c.chunk.js",
+    "static/css/main.8ab6f918.chunk.css",
+    "static/js/main.00a5e5fb.chunk.js"
+  ]
+}
