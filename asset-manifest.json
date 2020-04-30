@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/civ-new-dawn/static/css/main.8ab6f918.chunk.css",
-    "main.js": "/civ-new-dawn/static/js/main.00a5e5fb.chunk.js",
-    "main.js.map": "/civ-new-dawn/static/js/main.00a5e5fb.chunk.js.map",
+    "main.css": "/civ-new-dawn/static/css/main.69eda509.chunk.css",
+    "main.js": "/civ-new-dawn/static/js/main.42614214.chunk.js",
+    "main.js.map": "/civ-new-dawn/static/js/main.42614214.chunk.js.map",
     "runtime-main.js": "/civ-new-dawn/static/js/runtime-main.c9778430.js",
     "runtime-main.js.map": "/civ-new-dawn/static/js/runtime-main.c9778430.js.map",
-    "static/js/2.45bf636c.chunk.js": "/civ-new-dawn/static/js/2.45bf636c.chunk.js",
-    "static/js/2.45bf636c.chunk.js.map": "/civ-new-dawn/static/js/2.45bf636c.chunk.js.map",
+    "static/css/2.2713f6f0.chunk.css": "/civ-new-dawn/static/css/2.2713f6f0.chunk.css",
+    "static/js/2.e6bb88fb.chunk.js": "/civ-new-dawn/static/js/2.e6bb88fb.chunk.js",
+    "static/js/2.e6bb88fb.chunk.js.map": "/civ-new-dawn/static/js/2.e6bb88fb.chunk.js.map",
     "index.html": "/civ-new-dawn/index.html",
-    "precache-manifest.fec18f3f90dc54dff72ee48140b7b2df.js": "/civ-new-dawn/precache-manifest.fec18f3f90dc54dff72ee48140b7b2df.js",
+    "precache-manifest.23002fa379d9d3d52cc8682fe2aeedfc.js": "/civ-new-dawn/precache-manifest.23002fa379d9d3d52cc8682fe2aeedfc.js",
     "service-worker.js": "/civ-new-dawn/service-worker.js",
-    "static/css/main.8ab6f918.chunk.css.map": "/civ-new-dawn/static/css/main.8ab6f918.chunk.css.map",
-    "static/js/2.45bf636c.chunk.js.LICENSE.txt": "/civ-new-dawn/static/js/2.45bf636c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/civ-new-dawn/static/media/logo.ee7cd8ed.svg"
+    "static/css/2.2713f6f0.chunk.css.map": "/civ-new-dawn/static/css/2.2713f6f0.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/civ-new-dawn/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.e6bb88fb.chunk.js.LICENSE.txt": "/civ-new-dawn/static/js/2.e6bb88fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c9778430.js",
-    "static/js/2.45bf636c.chunk.js",
-    "static/css/main.8ab6f918.chunk.css",
-    "static/js/main.00a5e5fb.chunk.js"
+    "static/css/2.2713f6f0.chunk.css",
+    "static/js/2.e6bb88fb.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.42614214.chunk.js"
   ]
 }

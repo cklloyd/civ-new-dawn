@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/civ-new-dawn/precache-manifest.fec18f3f90dc54dff72ee48140b7b2df.js"
+  "/civ-new-dawn/precache-manifest.23002fa379d9d3d52cc8682fe2aeedfc.js"
 );
 
 self.addEventListener('message', (event) => {
